@@ -39,7 +39,7 @@
 
 A Rust binding library for macOS Spotlight search. Utilizes macOS Metadata Query API to perform efficient file searches.
 
-#### [Badminton Training Video Analysis System​](https://github.com/BB-fat/BadmintonHub)
+#### [BadmintonHub​](https://github.com/BB-fat/BadmintonHub)
 ![GitHub Repo stars](https://img.shields.io/github/stars/BB-fat/BadmintonHub?color=07C160&logo=github)
 
 Developing an AI-powered video analysis tool for amateur badminton training.
